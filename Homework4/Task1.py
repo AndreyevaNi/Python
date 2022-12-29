@@ -3,7 +3,7 @@
 # - при $d = 0.001, π = 3.141.$    $10^{-1} ≤ d ≤10^{-10}$
 import math
 
-from decimal import Decimal, getcontext
+from decimal import Decimal
 
 
 def decimal_num(number, precision):
